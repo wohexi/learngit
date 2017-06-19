@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7a0c791e-82a8-4afe-b3dd-70182035f0b4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -163,12 +162,20 @@
       <option name="presentableId" value="Default" />
       <updated>1497853078192</updated>
       <workItem from="1497853080034" duration="1177000" />
-      <workItem from="1497854820111" duration="135000" />
+      <workItem from="1497854820111" duration="223000" />
     </task>
+    <task id="LOCAL-00001" summary="上传隐藏文件">
+      <created>1497854988360</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1497854988360</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1312000" />
+    <option name="totallyTimeSpent" value="1400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2384" y="-140" width="976" height="877" extended-state="0" />
@@ -197,6 +204,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="上传隐藏文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="上传隐藏文件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
